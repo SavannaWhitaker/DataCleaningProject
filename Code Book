@@ -1,0 +1,23 @@
+x_test: the x-values of the test data read in from the data set
+y_test: the y-values of the test data read in from the data set
+x_train: the x-values of the train data read in from the data set
+y_train: the y-values of the train data read in from the data set
+
+comb_x: combines both the train and test x-values
+comb_y: combines both the train and test y-values
+comb: combines all train and test, x and y
+
+sub.test: the subject values from the test data set
+sub.train: the subject values from the train data set
+sub.total: combines the subject values for both test and train data
+
+act_lbls: the activity labels for the data set
+
+std.row: the standard deviation of the rows
+mean.row: the means for the rows
+std.cols: the standard deviation of the columns
+mean.cols: the means of the columns
+
+meanFreqcols: frequency fo the means for the columns
+mean.cols: mean of the frequencies
+data: contains subject data, combined y, means of the columns and standard deviations of the columns
